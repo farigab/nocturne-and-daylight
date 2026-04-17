@@ -2,7 +2,7 @@
   "name": "nocturne-and-daylight",
   "displayName": "Nocturne & Daylight",
   "description": "A curated collection of 8 eye-friendly VS Code themes — 4 dark and 4 light. Features Catppuccin, Rosé Pine, Tokyo Night, Gruvbox Material, GitHub Light, and Flexoki. Designed for readability and long coding sessions.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "farigab",
   "license": "MIT",
   "icon": "assets/icon.png",

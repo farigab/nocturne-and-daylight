@@ -2,7 +2,7 @@
   "name": "nocturne-and-daylight",
   "displayName": "Nocturne & Daylight (Catppuccin, Tokyo Night, Gruvbox, Rosé Pine, Flexoki)",
   "description": "Nocturne & Daylight is a curated collection of 8 eye-friendly VS Code themes, featuring Catppuccin, Rosé Pine, Tokyo Night, Gruvbox Material, GitHub Light, and Flexoki. Includes 4 dark and 4 light themes designed for readability, focus, and long coding sessions.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "farigab",
   "engines": {
     "vscode": "^1.80.0"

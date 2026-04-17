@@ -40,7 +40,7 @@ A curated collection of **8 eye-friendly VS Code themes** inspired by Catppuccin
 
 ## 📸 Preview
 
-> Add screenshots here — this is what drives installs the most.
+![Nocturne & Daylight Preview](assets/preview.png)
 
 ---
 

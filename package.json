@@ -31,6 +31,8 @@
     "gruvbox material",
     "flexoki",
     "github light",
+    "monokai",
+    "monokai night",
     "eye friendly",
     "minimal",
     "nocturne",
@@ -81,6 +83,11 @@
         "label": "Flexoki Light",
         "uiTheme": "vs",
         "path": "./themes/flexoki-light.json"
+      },
+      {
+        "label": "Flexoki Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flexoki-night.json"
       }
     ]
   },

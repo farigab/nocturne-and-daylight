@@ -1,9 +1,19 @@
 {
   "name": "nocturne-and-daylight",
-  "displayName": "Nocturne & Daylight (Catppuccin, Tokyo Night, Gruvbox, Rosé Pine, Flexoki)",
-  "description": "Nocturne & Daylight is a curated collection of 8 eye-friendly VS Code themes, featuring Catppuccin, Rosé Pine, Tokyo Night, Gruvbox Material, GitHub Light, and Flexoki. Includes 4 dark and 4 light themes designed for readability, focus, and long coding sessions.",
-  "version": "1.0.1",
+  "displayName": "Nocturne & Daylight",
+  "description": "A curated collection of 8 eye-friendly VS Code themes — 4 dark and 4 light. Features Catppuccin, Rosé Pine, Tokyo Night, Gruvbox Material, GitHub Light, and Flexoki. Designed for readability and long coding sessions.",
+  "version": "1.0.2",
   "publisher": "farigab",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#1e1e2e",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/farigab/nocturne-and-daylight",
+  "bugs": {
+    "url": "https://github.com/farigab/nocturne-and-daylight/issues"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -11,20 +21,18 @@
     "Themes"
   ],
   "keywords": [
-    "vscode theme",
+    "theme",
     "dark theme",
     "light theme",
-    "developer themes",
-    "programming theme",
     "catppuccin",
     "rose pine",
     "tokyo night",
     "gruvbox",
+    "gruvbox material",
     "flexoki",
-    "github theme",
-    "minimal theme",
+    "github light",
     "eye friendly",
-    "coding theme",
+    "minimal",
     "nocturne",
     "daylight"
   ],
@@ -74,10 +82,13 @@
         "uiTheme": "vs",
         "path": "./themes/flexoki-light.json"
       }
-    ],
-    "icon": "assets/icon.png"
+    ]
   },
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.0.0"
   }
 }

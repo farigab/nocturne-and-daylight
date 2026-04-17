@@ -28,6 +28,10 @@
     "nocturne",
     "daylight"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farigab/nocturne-and-daylight"
+  },
   "contributes": {
     "themes": [
       {
@@ -70,6 +74,10 @@
         "uiTheme": "vs",
         "path": "./themes/flexoki-light.json"
       }
-    ]
+    ],
+    "icon": "assets/icon.png"
+  },
+  "scripts": {
+    "build": "vsce package"
   }
 }

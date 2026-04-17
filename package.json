@@ -118,6 +118,11 @@
         "label": "Violet Dusk",
         "uiTheme": "vs-dark",
         "path": "./themes/violet-dusk.json"
+      },
+      {
+        "label": "Comfort Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/comfort-night.json"
       }
     ]
   },

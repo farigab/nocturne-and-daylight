@@ -1,0 +1,75 @@
+{
+  "name": "nocturne-and-daylight",
+  "displayName": "Nocturne & Daylight (Catppuccin, Tokyo Night, Gruvbox, Rosé Pine, Flexoki)",
+  "description": "Nocturne & Daylight is a curated collection of 8 eye-friendly VS Code themes, featuring Catppuccin, Rosé Pine, Tokyo Night, Gruvbox Material, GitHub Light, and Flexoki. Includes 4 dark and 4 light themes designed for readability, focus, and long coding sessions.",
+  "version": "1.0.0",
+  "publisher": "farigab",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode theme",
+    "dark theme",
+    "light theme",
+    "developer themes",
+    "programming theme",
+    "catppuccin",
+    "rose pine",
+    "tokyo night",
+    "gruvbox",
+    "flexoki",
+    "github theme",
+    "minimal theme",
+    "eye friendly",
+    "coding theme",
+    "nocturne",
+    "daylight"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Catppuccin Mocha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin-mocha.json"
+      },
+      {
+        "label": "Rosé Pine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-pine.json"
+      },
+      {
+        "label": "Tokyo Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night.json"
+      },
+      {
+        "label": "Gruvbox Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-material.json"
+      },
+      {
+        "label": "Catppuccin Latte",
+        "uiTheme": "vs",
+        "path": "./themes/catppuccin-latte.json"
+      },
+      {
+        "label": "Rosé Pine Dawn",
+        "uiTheme": "vs",
+        "path": "./themes/rose-pine-dawn.json"
+      },
+      {
+        "label": "GitHub Light Default",
+        "uiTheme": "vs",
+        "path": "./themes/github-light.json"
+      },
+      {
+        "label": "Flexoki Light",
+        "uiTheme": "vs",
+        "path": "./themes/flexoki-light.json"
+      }
+    ]
+  }
+}

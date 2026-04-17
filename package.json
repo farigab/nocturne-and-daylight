@@ -88,6 +88,36 @@
         "label": "Flexoki Night",
         "uiTheme": "vs-dark",
         "path": "./themes/flexoki-night.json"
+      },
+      {
+        "label": "Aurea Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurea-dark.json"
+      },
+      {
+        "label": "Monochrome Slate",
+        "uiTheme": "vs",
+        "path": "./themes/monochrome-slate.json"
+      },
+      {
+        "label": "Arctic Fog",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arctic-fog.json"
+      },
+      {
+        "label": "Obsidian Ember",
+        "uiTheme": "vs",
+        "path": "./themes/obsidian-ember.json"
+      },
+      {
+        "label": "Verdant",
+        "uiTheme": "vs",
+        "path": "./themes/verdant.json"
+      },
+      {
+        "label": "Violet Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/violet-dusk.json"
       }
     ]
   },

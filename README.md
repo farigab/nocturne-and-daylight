@@ -24,7 +24,7 @@ A curated collection of **16 eye-friendly VS Code themes** inspired by Catppucci
 | **Aurea Dark**       | Balanced dark theme with subtle warm accents               |
 | **Catppuccin Mocha** | Soft warm contrast with a rich pastel palette              |
 | **Conforto Night**   | Deep, soothing contrast with vibrant semantic highlights   |
-| **Monokai Night**    | Monokai-inspired palette with vivid accent colors          |
+| **Flexoki Night**    | Monokai-inspired palette with vivid accent colors          |
 | **Monochrome Slate** | Minimal grayscale design for distraction-free work         |
 | **Obsidian Ember**   | Warm ember tones and earthy highlights                     |
 | **Rosé Pine**        | Muted tones, low stimulation, perfect for night work       |

@@ -1,12 +1,12 @@
 # Nocturne & Daylight
 
-A curated collection of **8 eye-friendly VS Code themes** inspired by Catppuccin, Rosé Pine, Tokyo Night, Gruvbox, GitHub, and Flexoki — designed for **focus, readability, and long coding sessions**.
+A curated collection of **16 eye-friendly VS Code themes** inspired by Catppuccin, Rosé Pine, Tokyo Night, Gruvbox, GitHub, and Flexoki — designed for **focus, readability, and long coding sessions**.
 
 ---
 
 ## ✨ Features
 
-* 4 dark themes for low-light environments
+* 12 dark themes for low-light environments
 * 4 light themes for daytime clarity
 * Carefully balanced contrast (no harsh colors)
 * Minimal, distraction-free design
@@ -18,12 +18,20 @@ A curated collection of **8 eye-friendly VS Code themes** inspired by Catppuccin
 
 ### 🌙 Dark
 
-| Theme                | Character                                            |
-| -------------------- | ---------------------------------------------------- |
-| **Catppuccin Mocha** | Soft warm contrast with a rich pastel palette        |
-| **Rosé Pine**        | Muted tones, low stimulation, perfect for night work |
-| **Tokyo Night**      | Crisp contrast with cool blue hues                   |
-| **Gruvbox Material** | Retro-inspired warmth with earthy tones              |
+| Theme                | Character                                                  |
+| -------------------- | ---------------------------------------------------------- |
+| **Arctic Fog**       | Cool, low-contrast blue-gray palette for focus             |
+| **Aurea Dark**       | Balanced dark theme with subtle warm accents               |
+| **Catppuccin Mocha** | Soft warm contrast with a rich pastel palette              |
+| **Conforto Night**   | Deep, soothing contrast with vibrant semantic highlights   |
+| **Monokai Night**    | Monokai-inspired palette with vivid accent colors          |
+| **Monochrome Slate** | Minimal grayscale design for distraction-free work         |
+| **Obsidian Ember**   | Warm ember tones and earthy highlights                     |
+| **Rosé Pine**        | Muted tones, low stimulation, perfect for night work       |
+| **Tokyo Night**      | Crisp contrast with cool blue hues                         |
+| **Gruvbox Material** | Retro-inspired warmth with earthy tones                    |
+| **Verdant**          | Calming deep-green palette for long sessions               |
+| **Violet Dusk**      | Soft violet hues with gentle contrast for evening work     |
 
 ---
 
@@ -41,51 +49,6 @@ A curated collection of **8 eye-friendly VS Code themes** inspired by Catppuccin
 ## 📸 Preview
 
 ![Nocturne & Daylight Preview](assets/preview.png)
-
----
-
-## ⚙️ Installation
-
-### From Marketplace
-
-Search for **"Nocturne & Daylight"** in VS Code Extensions.
-
-### Manual (local dev)
-
-```bash
-cp -r dev-themes-vscode ~/.vscode/extensions/
-```
-
-Then reload:
-
-* `Ctrl + Shift + P` → **Reload Window**
-* `Ctrl + Shift + P` → **Color Theme**
-
----
-
-## 🚀 Publish
-
-```bash
-npm install -g @vscode/vsce
-vsce package
-vsce publish
-```
-
----
-
-## 🔤 Recommended Fonts
-
-* **JetBrains Mono** (ligatures on) — ideal for JS/TS
-* **Geist Mono** — clean and minimal
-
-```json
-{
-  "editor.fontFamily": "JetBrains Mono",
-  "editor.fontLigatures": true,
-  "editor.fontSize": 14,
-  "editor.lineHeight": 1.6
-}
-```
 
 ---
 

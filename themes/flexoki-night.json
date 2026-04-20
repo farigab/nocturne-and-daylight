@@ -916,6 +916,77 @@
         "foreground": "#ff5555",
         "fontStyle": "underline"
       }
+    },
+    {
+      "name": "Java — Annotations",
+      "scope": [
+        "meta.annotation.java",
+        "meta.declaration.annotation.java",
+        "entity.name.annotation.java",
+        "punctuation.definition.annotation.java"
+      ],
+      "settings": {
+        "foreground": "#a6e22e",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Java — Keywords & Storage",
+      "scope": [
+        "keyword.control.java",
+        "keyword.other.java",
+        "storage.type.java",
+        "storage.modifier.java",
+        "keyword.other.import.java",
+        "keyword.other.package.java"
+      ],
+      "settings": {
+        "foreground": "#f92672",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Java — Types & Classes",
+      "scope": [
+        "entity.name.type.class.java",
+        "entity.name.class.java",
+        "entity.name.type.java",
+        "storage.type.primitive.java",
+        "entity.other.inherited-class.java"
+      ],
+      "settings": {
+        "foreground": "#66d9ef"
+      }
+    },
+    {
+      "name": "Java — Methods & Constructors",
+      "scope": [
+        "entity.name.function.java",
+        "entity.name.function.constructor.java"
+      ],
+      "settings": {
+        "foreground": "#a6e22e"
+      }
+    },
+    {
+      "name": "Java — Fields & Variables",
+      "scope": [
+        "variable.other.field.java",
+        "variable.other.object.java"
+      ],
+      "settings": {
+        "foreground": "#f8f8f2"
+      }
+    },
+    {
+      "name": "Java — Constants & Enums",
+      "scope": [
+        "variable.other.constant.java",
+        "variable.other.enummember.java"
+      ],
+      "settings": {
+        "foreground": "#ae81ff"
+      }
     }
   ]
 }

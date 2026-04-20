@@ -111,8 +111,8 @@
     "editorIndentGuide.background1": "#3b3a52",
     "editorIndentGuide.activeBackground1": "#ae81ff88",
     "editorRuler.foreground": "#3b3a52",
-    "editorBracketMatch.background": "#f9267230",
-    "editorBracketMatch.border": "#f92672",
+    "editorBracketMatch.background": "#f9267240",
+    "editorBracketMatch.border": "#8966fa",
     "editorBracketHighlight.foreground1": "#f92672",
     "editorBracketHighlight.foreground2": "#a6e22e",
     "editorBracketHighlight.foreground3": "#66d9ef",
@@ -926,7 +926,7 @@
         "punctuation.definition.annotation.java"
       ],
       "settings": {
-        "foreground": "#a6e22e",
+        "foreground": "#ae81ff",
         "fontStyle": "italic"
       }
     },

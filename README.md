@@ -23,7 +23,7 @@ A curated collection of **16 eye-friendly VS Code themes** inspired by Catppucci
 | **Arctic Fog**       | Cool, low-contrast blue-gray palette for focus             |
 | **Aurea Dark**       | Balanced dark theme with subtle warm accents               |
 | **Catppuccin Mocha** | Soft warm contrast with a rich pastel palette              |
-| **Conforto Night**   | Deep, soothing contrast with vibrant semantic highlights   |
+| **Comfort Night**    | Deep, soothing contrast with vibrant semantic highlights   |
 | **Flexoki Night ⭐** | Monokai-inspired palette with vivid accent colors          |
 | **Monochrome Slate** | Minimal grayscale design for distraction-free work         |
 | **Obsidian Ember**   | Warm ember tones and earthy highlights                     |
@@ -59,3 +59,36 @@ No aggressive colors. No unnecessary contrast. Just clean, comfortable code.
 ## ⭐ Keywords
 
 VS Code theme, dark theme, light theme, Catppuccin, Rosé Pine, Tokyo Night, Gruvbox, Flexoki, minimal, eye-friendly, developer productivity
+
+---
+
+## 🔤 Recommended fonts
+
+Recommendations for best readability when using these themes:
+
+* **SF Mono** — preferred on macOS (high legibility). Install via Xcode / Apple Developer.
+* **JetBrains Mono** — cross-platform, excellent for programming.
+* **Fira Code** — supports ligatures (enable `editor.fontLigatures` if desired).
+* **Menlo** / **Monaco** — good options on macOS.
+* **Cascadia Code** / **Consolas** / **Courier New** — common alternatives on Windows.
+* Fallback: `monospace`.
+
+How to use in VS Code:
+
+* Open Settings and set **Editor: Font Family**, for example:
+
+```json
+"editor.fontFamily": "'SF Mono', 'Cascadia Code', Monaco, Menlo, Consolas, 'Courier New', monospace"
+```
+
+* To enable ligatures:
+
+```json
+"editor.fontLigatures": true
+```
+
+Notes about SF Mono:
+
+* SF Mono is provided by Apple and is typically available through Xcode / Apple Developer. Download it from the Apple Developer site (may require an Apple ID) or install the developer tools.
+
+If you prefer, use cross-platform fonts such as `JetBrains Mono` or `Fira Code` for the same experience on Windows/Linux.
